@@ -1,2 +1,2 @@
 # eCommerce
-Desafio 2 para Desafio Latam
+Desafio 2 Pagina eCommerce para Desafio Latam
